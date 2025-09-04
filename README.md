@@ -6,7 +6,7 @@ This project is an end-to-end NLP application that analyzes customer reviews [(A
 
 ---
 
-### ## Problem Statement
+### Problem Statement
 Businesses often receive thousands of customer reviews, making it impossible to manually read and categorize them all. This leads to missed opportunities for improvement and a poor understanding of customer sentiment. This tool automates the feedback analysis pipeline to solve that problem.
 
 ---
