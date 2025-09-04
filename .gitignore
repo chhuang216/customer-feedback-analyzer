@@ -1,0 +1,29 @@
+# Virtual Environment
+venv/
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Streamlit config
+.streamlit/
+
+# Trained models
+models/
+
+# Large data files
+data/Reviews.csv
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# Operating system files
+.DS_Store
+Thumbs.db

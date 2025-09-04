@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+spacy
+bertopic==0.16.0
+transformers
+torch
+sentence-transformers
+plotly
+scikit-learn
