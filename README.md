@@ -11,7 +11,7 @@ Businesses often receive thousands of customer reviews, making it impossible to 
 
 ---
 
-### ## Features
+### Features
 - **Automated Topic Modeling:** Uses BERTopic to discover and visualize the main themes in customer feedback without needing pre-labeled data.
 - **Abstractive Summarization:** Leverages a T5 Transformer model from Hugging Face to generate human-like summaries for reviews within each topic.
 - **Sentiment Analysis:** Performs sentiment analysis on reviews for each topic to quantify customer opinion.
@@ -19,7 +19,7 @@ Businesses often receive thousands of customer reviews, making it impossible to 
 
 ---
 
-### ## 💻 Tech Stack
+### Tech Stack
 - **Core Libraries:** Python, Pandas
 - **NLP:** spaCy, Hugging Face Transformers, BERTopic
 - **Web App & Visualization:** Streamlit, Plotly
@@ -27,7 +27,7 @@ Businesses often receive thousands of customer reviews, making it impossible to 
 
 ---
 
-### ## Setup and Execution
+### Setup and Execution
 
 Follow these steps to set up and run the project locally.
 
@@ -69,7 +69,7 @@ Follow these steps to set up and run the project locally.
 
 ---
 
-### ## Project Structure
+### Project Structure
 customer-feedback-analyzer/
 ├── data/
 │   └── reviews_sample.csv
